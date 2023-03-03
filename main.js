@@ -91,5 +91,3 @@ function handleButtonClick() {
   media.textContent = mediaResult;
 }
 start();
-
-//Boa noite
